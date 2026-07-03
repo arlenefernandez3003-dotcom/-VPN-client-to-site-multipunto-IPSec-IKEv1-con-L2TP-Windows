@@ -457,9 +457,7 @@ Traza completa.
 
 ## 9. Video Demostrativo
 
-🎥 **[Ver en YouTube — enlace pendiente]()**
-
-
+🎥  **[Ver en YouTube — enlace pendiente](https://youtu.be/X_LxLzhN3gk)**
 ---
 
 <div align="center">
