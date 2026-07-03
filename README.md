@@ -448,10 +448,10 @@ Traza completa.
 
 | # | Captura | Descripción |
 |---|---|---|
-| 1 | [Topología general](evidencias/1.png) | Topología en PNetLab con nombre y matrícula visibles: Cliente Win7, ISP, R1, SW y PC1 encendidos. |
-| 2 | [Config VPN Windows 7](evidencias/2.png) | Propiedades de la conexión VPN en Win7 mostrando tipo L2TP/IPSec y clave precompartida configurada. |
-| 3 | [Sesión L2TP activa en R1](evidencias/3.png) | Salida de `show vpdn session` y `show crypto isakmp sa` con sesión activa y estado `QM_IDLE`. |
-| 4 | [Traceroute exitoso](evidencias/4.png) | Resultado de `tracert 202.50.73.194` desde el cliente Windows 7 con VPN conectada, mostrando ruta hacia PC1. |
+| 1 | [Topología general](evidencias/1.jpeg) | Topología en PNetLab con nombre y matrícula visibles: Cliente Win7, ISP, R1, SW y PC1 encendidos. |
+| 2 | [Config VPN Windows 7](evidencias/2.jpeg) | Propiedades de la conexión VPN en Win7 mostrando tipo L2TP/IPSec y clave precompartida configurada. |
+| 3 | [Sesión L2TP activa en R1](evidencias/3.jpeg) | Salida de `show vpdn session` y `show crypto isakmp sa` con sesión activa y estado `QM_IDLE`. |
+| 4 | [Traceroute exitoso](evidencias/4.jpeg) | Resultado de `tracert 202.50.73.194` desde el cliente Windows 7 con VPN conectada, mostrando ruta hacia PC1. |
 
 ---
 
